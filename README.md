@@ -3,7 +3,7 @@
 ```python
 pip install pygame
 ```  
-Also, users need to download '''resources''' directory
+Also, users need to download ```resources``` directory
 ## Running game
 To start the game, just simply run  
 ```python
