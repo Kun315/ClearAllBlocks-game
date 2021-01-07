@@ -1,6 +1,6 @@
 # ClearAllBlocks-game
 ## Install Packages
-```python
+```Python
 pip install pygame
 ```  
 Also, users need to download ```resources``` directory
